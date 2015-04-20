@@ -1,0 +1,1 @@
+redditの初期購読subredditを全て購読解除するjavascriptです。
